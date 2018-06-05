@@ -1,4 +1,5 @@
 package WrapperClasses;
+
 public abstract class Number12 {
 	 //Four Abstract Methods
     public abstract int intValue();
