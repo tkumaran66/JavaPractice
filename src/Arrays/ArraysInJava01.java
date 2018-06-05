@@ -3,7 +3,6 @@ package Arrays;
 public class ArraysInJava01 {
 	public static void main(String[] args)
     {
-        int[] arrayOfInts;    //Declaring an array of int's
  
         char[] arrayOfChars;     //Declaring an array of characters
  
