@@ -1,7 +1,6 @@
 package WrapperClasses;
 
 public class AutoBoxing02 {
-
     public static void main(String[] args)
     {
         byte b = 10;    //Primitive byte data
